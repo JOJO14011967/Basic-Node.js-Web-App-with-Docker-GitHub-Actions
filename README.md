@@ -1,0 +1,2 @@
+# Basic-Node.js-Web-App-with-Docker-GitHub-Actions
+ Basic Node.js Web App with Docker &amp; GitHub Actions This project is a simple Node.js web application that demonstrates modern DevOps practices including Docker containerization and CI/CD automation using GitHub Actions.  🛠 Tech Stack Node.js (Express.js)  Docker (for containerization)  GitHub Actions (for CI/CD)  YAML (GitHub Actions workflows)
